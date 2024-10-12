@@ -406,10 +406,8 @@ class LlamaForCausalLM(LlamaPreTrainedModel):
     def generate(self, *args, **kwargs):
         # Check if the custom generation strategy should be used
         if "draft_skip_layers" in kwargs:
-            print("called draft-verify")
             return self._generate_self_speculative_decoding(*args, **kwargs)
         else:
-            print("doing verify - rest of layers")
             return super().generate(*args, **kwargs)
 
     def _sample(self, logits, return_probs: bool=False, do_sample: bool=False, top_k: int=50, top_p: float=0.7, temperature: float=0.7):
@@ -543,7 +541,7 @@ class LlamaForCausalLM(LlamaPreTrainedModel):
                             skip_layers=draft_skip_layers,
                         )
 
-                        print("drafting phase..")
+                        
                         draft_output_ids = torch.argmax(draft_output['logits'], dim=-1)
                         draft_output_ids, draft_output_probs = self._sample(
                             draft_output['logits'],
@@ -570,8 +568,6 @@ class LlamaForCausalLM(LlamaPreTrainedModel):
                         verify_start_index = draft_skip_layers[0]
                     else:
                         verify_start_index = 0
-                    
-                    print("drafted: ", drafted_n_tokens)
 
                     # TODO sending to central hub and receive results 
 
@@ -608,7 +604,7 @@ class LlamaForCausalLM(LlamaPreTrainedModel):
             input_ids: torch.LongTensor,
             past_key_values: Optional[List[torch.Tensor]] = None
             ) -> Tuple[torch.LongTensor, Optional[List[torch.Tensor]]]:
-        print("-------- first token run -----------------")
+        
 
         output = self(
             input_ids=input_ids,
@@ -644,7 +640,7 @@ class LlamaForCausalLM(LlamaPreTrainedModel):
             step_verify: Optional[int] = None,
             drafted_n_tokens: Optional[int] = None,
             step: Optional[int] = None) -> Tuple[int, int, Optional[List[torch.FloatTensor]], torch.LongTensor, Optional[List[torch.FloatTensor]], int, int, int, float]: 
-        print("------ sent for verification ------")             
+                     
         output = self(
             input_ids=drafted_input_ids,
             past_key_values=past_key_values,

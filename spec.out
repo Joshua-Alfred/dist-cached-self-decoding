@@ -1,230 +1,32 @@
 Model server running on node: gv007.hpc.nyu.edu with IP: 10.32.35.64
-Loading checkpoint shards:   0%|          | 0/2 [00:00<?, ?it/s]Loading checkpoint shards:  50%|█████     | 1/2 [00:08<00:08,  8.44s/it]Loading checkpoint shards: 100%|██████████| 2/2 [00:10<00:00,  4.52s/it]Loading checkpoint shards: 100%|██████████| 2/2 [00:10<00:00,  5.11s/it]
-called draft-verify
--------- first token run -----------------
-drafting phase..
-drafting phase..
-drafting phase..
-drafting phase..
-drafting phase..
-drafted:  5
------- sent for verification ------
+Loading checkpoint shards:   0%|          | 0/2 [00:00<?, ?it/s]Loading checkpoint shards:  50%|█████     | 1/2 [00:05<00:05,  5.03s/it]Loading checkpoint shards: 100%|██████████| 2/2 [00:06<00:00,  3.13s/it]Loading checkpoint shards: 100%|██████████| 2/2 [00:06<00:00,  3.42s/it]
 Drafted: 5, Matched: 5, Matchness: 0.40, Th_stop_draft: 0.30
-drafting phase..
-drafting phase..
-drafting phase..
-drafting phase..
-drafting phase..
-drafted:  5
------- sent for verification ------
 Drafted: 5, Matched: 3, Matchness: 0.40, Th_stop_draft: 0.30
-drafting phase..
-drafting phase..
-drafting phase..
-drafting phase..
-drafting phase..
-drafted:  5
------- sent for verification ------
 Drafted: 5, Matched: 5, Matchness: 0.60, Th_stop_draft: 0.30
-drafting phase..
-drafting phase..
-drafting phase..
-drafting phase..
-drafting phase..
-drafted:  5
------- sent for verification ------
 Drafted: 5, Matched: 2, Matchness: 0.40, Th_stop_draft: 0.30
-drafting phase..
-drafting phase..
-drafting phase..
-drafting phase..
-drafting phase..
-drafted:  5
------- sent for verification ------
 Drafted: 5, Matched: 5, Matchness: 0.60, Th_stop_draft: 0.30
-drafting phase..
-drafting phase..
-drafting phase..
-drafting phase..
-drafting phase..
-drafted:  5
------- sent for verification ------
 Drafted: 5, Matched: 1, Matchness: 0.30, Th_stop_draft: 0.31
-drafting phase..
-drafting phase..
-drafting phase..
-drafting phase..
-drafting phase..
-drafted:  5
------- sent for verification ------
 Drafted: 5, Matched: 5, Matchness: 0.55, Th_stop_draft: 0.31
-drafting phase..
-drafting phase..
-drafting phase..
-drafting phase..
-drafting phase..
-drafted:  5
------- sent for verification ------
 Drafted: 5, Matched: 5, Matchness: 0.68, Th_stop_draft: 0.31
-drafting phase..
-drafting phase..
-drafting phase..
-drafting phase..
-drafting phase..
-drafted:  5
------- sent for verification ------
 Drafted: 5, Matched: 4, Matchness: 0.64, Th_stop_draft: 0.31
-drafting phase..
-drafting phase..
-drafting phase..
-drafting phase..
-drafting phase..
-drafted:  5
------- sent for verification ------
 Drafted: 5, Matched: 5, Matchness: 0.72, Th_stop_draft: 0.31
-drafting phase..
-drafting phase..
-drafting phase..
-drafting phase..
-drafting phase..
-drafted:  5
------- sent for verification ------
 Drafted: 5, Matched: 5, Matchness: 0.76, Th_stop_draft: 0.31
-drafting phase..
-drafting phase..
-drafting phase..
-drafting phase..
-drafting phase..
-drafted:  5
------- sent for verification ------
 Drafted: 5, Matched: 5, Matchness: 0.78, Th_stop_draft: 0.31
-drafting phase..
-drafting phase..
-drafting phase..
-drafting phase..
-drafting phase..
-drafted:  5
------- sent for verification ------
 Drafted: 5, Matched: 5, Matchness: 0.79, Th_stop_draft: 0.31
-drafting phase..
-drafting phase..
-drafting phase..
-drafting phase..
-drafting phase..
-drafted:  5
------- sent for verification ------
 Drafted: 5, Matched: 5, Matchness: 0.79, Th_stop_draft: 0.31
-drafting phase..
-drafting phase..
-drafting phase..
-drafting phase..
-drafting phase..
-drafted:  5
------- sent for verification ------
 Drafted: 5, Matched: 5, Matchness: 0.80, Th_stop_draft: 0.32
-drafting phase..
-drafting phase..
-drafting phase..
-drafting phase..
-drafting phase..
-drafted:  5
------- sent for verification ------
 Drafted: 5, Matched: 5, Matchness: 0.80, Th_stop_draft: 0.32
-drafting phase..
-drafting phase..
-drafting phase..
-drafting phase..
-drafting phase..
-drafted:  5
------- sent for verification ------
 Drafted: 5, Matched: 5, Matchness: 0.80, Th_stop_draft: 0.32
-drafting phase..
-drafting phase..
-drafting phase..
-drafting phase..
-drafting phase..
-drafted:  5
------- sent for verification ------
 Drafted: 5, Matched: 5, Matchness: 0.80, Th_stop_draft: 0.32
-drafting phase..
-drafting phase..
-drafting phase..
-drafting phase..
-drafting phase..
-drafted:  5
------- sent for verification ------
 Drafted: 5, Matched: 5, Matchness: 0.80, Th_stop_draft: 0.32
-drafting phase..
-drafting phase..
-drafting phase..
-drafting phase..
-drafting phase..
-drafted:  5
------- sent for verification ------
 Drafted: 5, Matched: 5, Matchness: 0.80, Th_stop_draft: 0.32
-drafting phase..
-drafting phase..
-drafting phase..
-drafting phase..
-drafting phase..
-drafted:  5
------- sent for verification ------
 Drafted: 5, Matched: 5, Matchness: 0.80, Th_stop_draft: 0.32
-drafting phase..
-drafting phase..
-drafting phase..
-drafting phase..
-drafting phase..
-drafted:  5
------- sent for verification ------
 Drafted: 5, Matched: 5, Matchness: 0.80, Th_stop_draft: 0.32
-drafting phase..
-drafting phase..
-drafting phase..
-drafting phase..
-drafting phase..
-drafted:  5
------- sent for verification ------
 Drafted: 5, Matched: 5, Matchness: 0.80, Th_stop_draft: 0.32
-drafting phase..
-drafting phase..
-drafting phase..
-drafting phase..
-drafting phase..
-drafted:  5
------- sent for verification ------
 Drafted: 5, Matched: 5, Matchness: 0.80, Th_stop_draft: 0.32
-drafting phase..
-drafting phase..
-drafting phase..
-drafting phase..
-drafting phase..
-drafted:  5
------- sent for verification ------
 Drafted: 5, Matched: 2, Matchness: 0.50, Th_stop_draft: 0.33
-drafting phase..
-drafting phase..
-drafting phase..
-drafting phase..
-drafting phase..
-drafted:  5
------- sent for verification ------
 Drafted: 5, Matched: 5, Matchness: 0.65, Th_stop_draft: 0.33
-drafting phase..
-drafting phase..
-drafting phase..
-drafting phase..
-drafting phase..
-drafted:  5
------- sent for verification ------
 Drafted: 5, Matched: 5, Matchness: 0.72, Th_stop_draft: 0.33
-drafting phase..
-drafting phase..
-drafting phase..
-drafting phase..
-drafting phase..
-drafted:  5
------- sent for verification ------
 Drafted: 5, Matched: 5, Matchness: 0.76, Th_stop_draft: 0.33
 Prompt: public static void main(String[] args) {
     //Fizzbuzz
@@ -242,248 +44,36 @@ Prompt: public static void main(String[] args) {
       }
     }
 
-Time per token: 0.0569s
-called draft-verify
--------- first token run -----------------
-drafting phase..
-drafting phase..
-drafting phase..
-drafting phase..
-drafting phase..
-drafted:  5
------- sent for verification ------
+Time per token: 0.0571s
 Drafted: 5, Matched: 3, Matchness: 0.20, Th_stop_draft: 0.30
-drafting phase..
-drafting phase..
-drafting phase..
-drafting phase..
-drafting phase..
-drafted:  5
------- sent for verification ------
 Drafted: 5, Matched: 2, Matchness: 0.20, Th_stop_draft: 0.30
-drafting phase..
-drafting phase..
-drafting phase..
-drafting phase..
-drafting phase..
-drafted:  5
------- sent for verification ------
 Drafted: 5, Matched: 5, Matchness: 0.50, Th_stop_draft: 0.30
-drafting phase..
-drafting phase..
-drafting phase..
-drafting phase..
-drafting phase..
-drafted:  5
------- sent for verification ------
 Drafted: 5, Matched: 2, Matchness: 0.35, Th_stop_draft: 0.30
-drafting phase..
-drafting phase..
-drafting phase..
-drafting phase..
-drafting phase..
-drafted:  5
------- sent for verification ------
 Drafted: 5, Matched: 5, Matchness: 0.57, Th_stop_draft: 0.30
-drafting phase..
-drafting phase..
-drafting phase..
-drafting phase..
-drafting phase..
-drafted:  5
------- sent for verification ------
 Drafted: 5, Matched: 5, Matchness: 0.69, Th_stop_draft: 0.31
-drafting phase..
-drafting phase..
-drafting phase..
-drafting phase..
-drafting phase..
-drafted:  5
------- sent for verification ------
 Drafted: 5, Matched: 5, Matchness: 0.74, Th_stop_draft: 0.31
-drafting phase..
-drafting phase..
-drafting phase..
-drafting phase..
-drafting phase..
-drafted:  5
------- sent for verification ------
 Drafted: 5, Matched: 5, Matchness: 0.77, Th_stop_draft: 0.31
-drafting phase..
-drafting phase..
-drafting phase..
-drafting phase..
-drafting phase..
-drafted:  5
------- sent for verification ------
 Drafted: 5, Matched: 5, Matchness: 0.79, Th_stop_draft: 0.31
-drafting phase..
-drafting phase..
-drafting phase..
-drafting phase..
-drafting phase..
-drafted:  5
------- sent for verification ------
 Drafted: 5, Matched: 5, Matchness: 0.79, Th_stop_draft: 0.31
-drafting phase..
-drafting phase..
-drafting phase..
-drafting phase..
-drafting phase..
-drafted:  5
------- sent for verification ------
 Drafted: 5, Matched: 2, Matchness: 0.50, Th_stop_draft: 0.31
-drafting phase..
-drafting phase..
-drafting phase..
-drafting phase..
-drafting phase..
-drafted:  5
------- sent for verification ------
 Drafted: 5, Matched: 5, Matchness: 0.65, Th_stop_draft: 0.31
-drafting phase..
-drafting phase..
-drafting phase..
-drafting phase..
-drafting phase..
-drafted:  5
------- sent for verification ------
 Drafted: 5, Matched: 3, Matchness: 0.52, Th_stop_draft: 0.31
-drafting phase..
-drafting phase..
-drafting phase..
-drafting phase..
-drafting phase..
-drafted:  5
------- sent for verification ------
 Drafted: 5, Matched: 5, Matchness: 0.66, Th_stop_draft: 0.31
-drafting phase..
-drafting phase..
-drafting phase..
-drafting phase..
-drafting phase..
-drafted:  5
------- sent for verification ------
 Drafted: 5, Matched: 5, Matchness: 0.73, Th_stop_draft: 0.32
-drafting phase..
-drafting phase..
-drafting phase..
-drafting phase..
-drafting phase..
-drafted:  5
------- sent for verification ------
 Drafted: 5, Matched: 5, Matchness: 0.77, Th_stop_draft: 0.32
-drafting phase..
-drafting phase..
-drafting phase..
-drafting phase..
-drafting phase..
-drafted:  5
------- sent for verification ------
 Drafted: 5, Matched: 5, Matchness: 0.78, Th_stop_draft: 0.32
-drafting phase..
-drafting phase..
-drafting phase..
-drafting phase..
-drafting phase..
-drafted:  5
------- sent for verification ------
 Drafted: 5, Matched: 5, Matchness: 0.79, Th_stop_draft: 0.32
-drafting phase..
-drafting phase..
-drafting phase..
-drafting phase..
-drafting phase..
-drafted:  5
------- sent for verification ------
 Drafted: 5, Matched: 5, Matchness: 0.80, Th_stop_draft: 0.32
-drafting phase..
-drafting phase..
-drafting phase..
-drafting phase..
-drafting phase..
-drafted:  5
------- sent for verification ------
 Drafted: 5, Matched: 5, Matchness: 0.80, Th_stop_draft: 0.32
-drafting phase..
-drafting phase..
-drafting phase..
-drafting phase..
-drafting phase..
-drafted:  5
------- sent for verification ------
 Drafted: 5, Matched: 5, Matchness: 0.80, Th_stop_draft: 0.32
-drafting phase..
-drafting phase..
-drafting phase..
-drafting phase..
-drafting phase..
-drafted:  5
------- sent for verification ------
 Drafted: 5, Matched: 5, Matchness: 0.80, Th_stop_draft: 0.32
-drafting phase..
-drafting phase..
-drafting phase..
-drafting phase..
-drafting phase..
-drafted:  5
------- sent for verification ------
 Drafted: 5, Matched: 1, Matchness: 0.40, Th_stop_draft: 0.32
-drafting phase..
-drafting phase..
-drafting phase..
-drafting phase..
-drafting phase..
-drafted:  5
------- sent for verification ------
 Drafted: 5, Matched: 5, Matchness: 0.60, Th_stop_draft: 0.32
-drafting phase..
-drafting phase..
-drafting phase..
-drafting phase..
-drafting phase..
-drafted:  5
------- sent for verification ------
 Drafted: 5, Matched: 5, Matchness: 0.70, Th_stop_draft: 0.33
-drafting phase..
-drafting phase..
-drafting phase..
-drafting phase..
-drafting phase..
-drafted:  5
------- sent for verification ------
 Drafted: 5, Matched: 2, Matchness: 0.45, Th_stop_draft: 0.33
-drafting phase..
-drafting phase..
-drafting phase..
-drafting phase..
-drafting phase..
-drafted:  5
------- sent for verification ------
 Drafted: 5, Matched: 5, Matchness: 0.62, Th_stop_draft: 0.33
-drafting phase..
-drafting phase..
-drafting phase..
-drafting phase..
-drafting phase..
-drafted:  5
------- sent for verification ------
 Drafted: 5, Matched: 2, Matchness: 0.41, Th_stop_draft: 0.33
-drafting phase..
-drafting phase..
-drafting phase..
-drafting phase..
-drafting phase..
-drafted:  5
------- sent for verification ------
 Drafted: 5, Matched: 5, Matchness: 0.61, Th_stop_draft: 0.33
-drafting phase..
-drafting phase..
-drafting phase..
-drafting phase..
-drafting phase..
-drafted:  5
------- sent for verification ------
 Drafted: 5, Matched: 5, Matchness: 0.70, Th_stop_draft: 0.33
 Prompt: def fibonacci(n):
     a, b = 0, 1
@@ -506,332 +96,47 @@ def fibonacci_recursive(n):
 def fibonacci_memo(n, memo={}):
     if n in memo:
         return memo[n
-Time per token: 0.0564s
-called draft-verify
--------- first token run -----------------
-drafting phase..
-drafting phase..
-drafting phase..
-drafting phase..
-drafting phase..
-drafted:  5
------- sent for verification ------
+Time per token: 0.0563s
 Drafted: 5, Matched: 4, Matchness: 0.30, Th_stop_draft: 0.30
-drafting phase..
-drafting phase..
-drafting phase..
-drafting phase..
-drafting phase..
-drafted:  5
------- sent for verification ------
 Drafted: 5, Matched: 3, Matchness: 0.35, Th_stop_draft: 0.30
-drafting phase..
-drafting phase..
-drafting phase..
-drafting phase..
-drafting phase..
-drafted:  5
------- sent for verification ------
 Drafted: 5, Matched: 1, Matchness: 0.17, Th_stop_draft: 0.30
-drafting phase..
-drafting phase..
-drafting phase..
-drafting phase..
-drafting phase..
-drafted:  5
------- sent for verification ------
 Drafted: 5, Matched: 3, Matchness: 0.29, Th_stop_draft: 0.30
-drafting phase..
-drafting phase..
-drafting phase..
-drafting phase..
-drafting phase..
-drafted:  5
------- sent for verification ------
 Drafted: 5, Matched: 5, Matchness: 0.54, Th_stop_draft: 0.30
-drafting phase..
-drafting phase..
-drafting phase..
-drafting phase..
-drafting phase..
-drafted:  5
------- sent for verification ------
 Drafted: 5, Matched: 1, Matchness: 0.27, Th_stop_draft: 0.31
-drafting phase..
-drafting phase..
-drafting phase..
-drafting phase..
-drafting phase..
-drafted:  5
------- sent for verification ------
 Drafted: 5, Matched: 3, Matchness: 0.34, Th_stop_draft: 0.31
-drafting phase..
-drafting phase..
-drafting phase..
-drafting phase..
-drafting phase..
-drafted:  5
------- sent for verification ------
 Drafted: 5, Matched: 1, Matchness: 0.17, Th_stop_draft: 0.31
-drafting phase..
-drafting phase..
-drafting phase..
-drafting phase..
-drafting phase..
-drafted:  5
------- sent for verification ------
 Drafted: 5, Matched: 3, Matchness: 0.28, Th_stop_draft: 0.31
-drafting phase..
-drafting phase..
-drafting phase..
-drafting phase..
-drafting phase..
-drafted:  5
------- sent for verification ------
 Drafted: 5, Matched: 4, Matchness: 0.44, Th_stop_draft: 0.31
-drafting phase..
-drafting phase..
-drafting phase..
-drafting phase..
-drafting phase..
-drafted:  5
------- sent for verification ------
 Drafted: 5, Matched: 5, Matchness: 0.62, Th_stop_draft: 0.31
-drafting phase..
-drafting phase..
-drafting phase..
-drafting phase..
-drafting phase..
-drafted:  5
------- sent for verification ------
 Drafted: 5, Matched: 4, Matchness: 0.61, Th_stop_draft: 0.31
-drafting phase..
-drafting phase..
-drafting phase..
-drafting phase..
-drafting phase..
-drafted:  5
------- sent for verification ------
 Drafted: 5, Matched: 5, Matchness: 0.71, Th_stop_draft: 0.31
-drafting phase..
-drafting phase..
-drafting phase..
-drafting phase..
-drafting phase..
-drafted:  5
------- sent for verification ------
 Drafted: 5, Matched: 2, Matchness: 0.45, Th_stop_draft: 0.31
-drafting phase..
-drafting phase..
-drafting phase..
-drafting phase..
-drafting phase..
-drafted:  5
------- sent for verification ------
 Drafted: 5, Matched: 1, Matchness: 0.23, Th_stop_draft: 0.32
-drafting phase..
-drafting phase..
-drafting phase..
-drafting phase..
-drafting phase..
-drafted:  5
------- sent for verification ------
 Drafted: 5, Matched: 5, Matchness: 0.51, Th_stop_draft: 0.32
-drafting phase..
-drafting phase..
-drafting phase..
-drafting phase..
-drafting phase..
-drafted:  5
------- sent for verification ------
 Drafted: 5, Matched: 5, Matchness: 0.66, Th_stop_draft: 0.32
-drafting phase..
-drafting phase..
-drafting phase..
-drafting phase..
-drafting phase..
-drafted:  5
------- sent for verification ------
 Drafted: 5, Matched: 5, Matchness: 0.73, Th_stop_draft: 0.32
-drafting phase..
-drafting phase..
-drafting phase..
-drafting phase..
-drafting phase..
-drafted:  5
------- sent for verification ------
 Drafted: 5, Matched: 3, Matchness: 0.56, Th_stop_draft: 0.32
-drafting phase..
-drafting phase..
-drafting phase..
-drafting phase..
-drafting phase..
-drafted:  5
------- sent for verification ------
 Drafted: 5, Matched: 5, Matchness: 0.68, Th_stop_draft: 0.32
-drafting phase..
-drafting phase..
-drafting phase..
-drafting phase..
-drafting phase..
-drafted:  5
------- sent for verification ------
 Drafted: 5, Matched: 5, Matchness: 0.74, Th_stop_draft: 0.32
-drafting phase..
-drafting phase..
-drafting phase..
-drafting phase..
-drafting phase..
-drafted:  5
------- sent for verification ------
 Drafted: 5, Matched: 5, Matchness: 0.77, Th_stop_draft: 0.32
-drafting phase..
-drafting phase..
-drafting phase..
-drafting phase..
-drafting phase..
-drafted:  5
------- sent for verification ------
 Drafted: 5, Matched: 1, Matchness: 0.39, Th_stop_draft: 0.32
-drafting phase..
-drafting phase..
-drafting phase..
-drafting phase..
-drafting phase..
-drafted:  5
------- sent for verification ------
 Drafted: 5, Matched: 5, Matchness: 0.59, Th_stop_draft: 0.32
-drafting phase..
-drafting phase..
-drafting phase..
-drafting phase..
-drafting phase..
-drafted:  5
------- sent for verification ------
 Drafted: 5, Matched: 1, Matchness: 0.30, Th_stop_draft: 0.33
-drafting phase..
-drafting phase..
-drafting phase..
-drafting phase..
-drafting phase..
-drafted:  5
------- sent for verification ------
 Drafted: 5, Matched: 2, Matchness: 0.25, Th_stop_draft: 0.33
-drafting phase..
-drafting phase..
-drafting phase..
-drafting phase..
-drafting phase..
-drafted:  5
------- sent for verification ------
 Drafted: 5, Matched: 4, Matchness: 0.42, Th_stop_draft: 0.33
-drafting phase..
-drafting phase..
-drafting phase..
-drafting phase..
-drafting phase..
-drafted:  5
------- sent for verification ------
 Drafted: 5, Matched: 5, Matchness: 0.61, Th_stop_draft: 0.33
-drafting phase..
-drafting phase..
-drafting phase..
-drafting phase..
-drafting phase..
-drafted:  5
------- sent for verification ------
 Drafted: 5, Matched: 3, Matchness: 0.51, Th_stop_draft: 0.33
-drafting phase..
-drafting phase..
-drafting phase..
-drafting phase..
-drafting phase..
-drafted:  5
------- sent for verification ------
 Drafted: 5, Matched: 5, Matchness: 0.65, Th_stop_draft: 0.33
-drafting phase..
-drafting phase..
-drafting phase..
-drafting phase..
-drafting phase..
-drafted:  5
------- sent for verification ------
 Drafted: 5, Matched: 1, Matchness: 0.33, Th_stop_draft: 0.33
-drafting phase..
-drafting phase..
-drafting phase..
-drafting phase..
-drafting phase..
-drafted:  5
------- sent for verification ------
 Drafted: 5, Matched: 1, Matchness: 0.16, Th_stop_draft: 0.33
-drafting phase..
-drafting phase..
-drafting phase..
-drafting phase..
-drafting phase..
-drafted:  5
------- sent for verification ------
 Drafted: 5, Matched: 1, Matchness: 0.08, Th_stop_draft: 0.33
-drafting phase..
-drafting phase..
-drafting phase..
-drafting phase..
-drafting phase..
-drafted:  5
------- sent for verification ------
 Drafted: 5, Matched: 2, Matchness: 0.14, Th_stop_draft: 0.33
-drafting phase..
-drafting phase..
-drafting phase..
-drafting phase..
-drafting phase..
-drafted:  5
------- sent for verification ------
 Drafted: 5, Matched: 5, Matchness: 0.47, Th_stop_draft: 0.34
-drafting phase..
-drafting phase..
-drafting phase..
-drafting phase..
-drafting phase..
-drafted:  5
------- sent for verification ------
 Drafted: 5, Matched: 1, Matchness: 0.24, Th_stop_draft: 0.34
-drafting phase..
-drafting phase..
-drafting phase..
-drafting phase..
-drafting phase..
-drafted:  5
------- sent for verification ------
 Drafted: 5, Matched: 2, Matchness: 0.22, Th_stop_draft: 0.34
-drafting phase..
-drafting phase..
-drafting phase..
-drafting phase..
-drafting phase..
-drafted:  5
------- sent for verification ------
 Drafted: 5, Matched: 3, Matchness: 0.31, Th_stop_draft: 0.34
-drafting phase..
-drafting phase..
-drafting phase..
-drafting phase..
-drafting phase..
-drafted:  5
------- sent for verification ------
 Drafted: 5, Matched: 1, Matchness: 0.15, Th_stop_draft: 0.34
-drafting phase..
-drafting phase..
-drafting phase..
-drafting phase..
-drafting phase..
-drafted:  5
------- sent for verification ------
 Drafted: 5, Matched: 5, Matchness: 0.48, Th_stop_draft: 0.34
-drafting phase..
-drafted:  1
------- sent for verification ------
 Drafted: 1, Matched: 1, Matchness: 0.24, Th_stop_draft: 0.34
 Prompt: SELECT * FROM users WHERE age > 18;
 --------------------------------------------------
@@ -853,264 +158,38 @@ DELETE FROM users WHERE name = 'Tom';
 // 1. 数值类型
 INT(11) 整型
 FLOAT(11, 2) ��
-Time per token: 0.0761s
-called draft-verify
--------- first token run -----------------
-drafting phase..
-drafting phase..
-drafting phase..
-drafting phase..
-drafting phase..
-drafted:  5
------- sent for verification ------
+Time per token: 0.0749s
 Drafted: 5, Matched: 5, Matchness: 0.40, Th_stop_draft: 0.30
-drafting phase..
-drafting phase..
-drafting phase..
-drafting phase..
-drafting phase..
-drafted:  5
------- sent for verification ------
 Drafted: 5, Matched: 5, Matchness: 0.60, Th_stop_draft: 0.30
-drafting phase..
-drafting phase..
-drafting phase..
-drafting phase..
-drafting phase..
-drafted:  5
------- sent for verification ------
 Drafted: 5, Matched: 1, Matchness: 0.30, Th_stop_draft: 0.30
-drafting phase..
-drafting phase..
-drafting phase..
-drafting phase..
-drafting phase..
-drafted:  5
------- sent for verification ------
 Drafted: 5, Matched: 5, Matchness: 0.55, Th_stop_draft: 0.30
-drafting phase..
-drafting phase..
-drafting phase..
-drafting phase..
-drafting phase..
-drafted:  5
------- sent for verification ------
 Drafted: 5, Matched: 5, Matchness: 0.68, Th_stop_draft: 0.30
-drafting phase..
-drafting phase..
-drafting phase..
-drafting phase..
-drafting phase..
-drafted:  5
------- sent for verification ------
 Drafted: 5, Matched: 5, Matchness: 0.74, Th_stop_draft: 0.31
-drafting phase..
-drafting phase..
-drafting phase..
-drafting phase..
-drafting phase..
-drafted:  5
------- sent for verification ------
 Drafted: 5, Matched: 1, Matchness: 0.37, Th_stop_draft: 0.31
-drafting phase..
-drafting phase..
-drafting phase..
-drafting phase..
-drafting phase..
-drafted:  5
------- sent for verification ------
 Drafted: 5, Matched: 2, Matchness: 0.28, Th_stop_draft: 0.31
-drafting phase..
-drafting phase..
-drafting phase..
-drafting phase..
-drafting phase..
-drafted:  5
------- sent for verification ------
 Drafted: 5, Matched: 5, Matchness: 0.54, Th_stop_draft: 0.31
-drafting phase..
-drafting phase..
-drafting phase..
-drafting phase..
-drafting phase..
-drafted:  5
------- sent for verification ------
 Drafted: 5, Matched: 5, Matchness: 0.67, Th_stop_draft: 0.31
-drafting phase..
-drafting phase..
-drafting phase..
-drafting phase..
-drafting phase..
-drafted:  5
------- sent for verification ------
 Drafted: 5, Matched: 4, Matchness: 0.64, Th_stop_draft: 0.31
-drafting phase..
-drafting phase..
-drafting phase..
-drafting phase..
-drafting phase..
-drafted:  5
------- sent for verification ------
 Drafted: 5, Matched: 1, Matchness: 0.32, Th_stop_draft: 0.31
-drafting phase..
-drafting phase..
-drafting phase..
-drafting phase..
-drafting phase..
-drafted:  5
------- sent for verification ------
 Drafted: 5, Matched: 3, Matchness: 0.36, Th_stop_draft: 0.31
-drafting phase..
-drafting phase..
-drafting phase..
-drafting phase..
-drafting phase..
-drafted:  5
------- sent for verification ------
 Drafted: 5, Matched: 5, Matchness: 0.58, Th_stop_draft: 0.31
-drafting phase..
-drafting phase..
-drafting phase..
-drafting phase..
-drafting phase..
-drafted:  5
------- sent for verification ------
 Drafted: 5, Matched: 4, Matchness: 0.59, Th_stop_draft: 0.32
-drafting phase..
-drafting phase..
-drafting phase..
-drafting phase..
-drafting phase..
-drafted:  5
------- sent for verification ------
 Drafted: 5, Matched: 5, Matchness: 0.69, Th_stop_draft: 0.32
-drafting phase..
-drafting phase..
-drafting phase..
-drafting phase..
-drafting phase..
-drafted:  5
------- sent for verification ------
 Drafted: 5, Matched: 3, Matchness: 0.55, Th_stop_draft: 0.32
-drafting phase..
-drafting phase..
-drafting phase..
-drafting phase..
-drafting phase..
-drafted:  5
------- sent for verification ------
 Drafted: 5, Matched: 1, Matchness: 0.27, Th_stop_draft: 0.32
-drafting phase..
-drafting phase..
-drafting phase..
-drafting phase..
-drafting phase..
-drafted:  5
------- sent for verification ------
 Drafted: 5, Matched: 5, Matchness: 0.54, Th_stop_draft: 0.32
-drafting phase..
-drafting phase..
-drafting phase..
-drafting phase..
-drafting phase..
-drafted:  5
------- sent for verification ------
 Drafted: 5, Matched: 5, Matchness: 0.67, Th_stop_draft: 0.32
-drafting phase..
-drafting phase..
-drafting phase..
-drafting phase..
-drafting phase..
-drafted:  5
------- sent for verification ------
 Drafted: 5, Matched: 5, Matchness: 0.73, Th_stop_draft: 0.32
-drafting phase..
-drafting phase..
-drafting phase..
-drafting phase..
-drafting phase..
-drafted:  5
------- sent for verification ------
 Drafted: 5, Matched: 5, Matchness: 0.77, Th_stop_draft: 0.32
-drafting phase..
-drafting phase..
-drafting phase..
-drafting phase..
-drafting phase..
-drafted:  5
------- sent for verification ------
 Drafted: 5, Matched: 1, Matchness: 0.38, Th_stop_draft: 0.32
-drafting phase..
-drafting phase..
-drafting phase..
-drafting phase..
-drafting phase..
-drafted:  5
------- sent for verification ------
 Drafted: 5, Matched: 5, Matchness: 0.59, Th_stop_draft: 0.32
-drafting phase..
-drafting phase..
-drafting phase..
-drafting phase..
-drafting phase..
-drafted:  5
------- sent for verification ------
 Drafted: 5, Matched: 5, Matchness: 0.70, Th_stop_draft: 0.33
-drafting phase..
-drafting phase..
-drafting phase..
-drafting phase..
-drafting phase..
-drafted:  5
------- sent for verification ------
 Drafted: 5, Matched: 5, Matchness: 0.75, Th_stop_draft: 0.33
-drafting phase..
-drafting phase..
-drafting phase..
-drafting phase..
-drafting phase..
-drafted:  5
------- sent for verification ------
 Drafted: 5, Matched: 5, Matchness: 0.77, Th_stop_draft: 0.33
-drafting phase..
-drafting phase..
-drafting phase..
-drafting phase..
-drafting phase..
-drafted:  5
------- sent for verification ------
 Drafted: 5, Matched: 1, Matchness: 0.39, Th_stop_draft: 0.33
-drafting phase..
-drafting phase..
-drafting phase..
-drafting phase..
-drafting phase..
-drafted:  5
------- sent for verification ------
 Drafted: 5, Matched: 5, Matchness: 0.59, Th_stop_draft: 0.33
-drafting phase..
-drafting phase..
-drafting phase..
-drafting phase..
-drafting phase..
-drafted:  5
------- sent for verification ------
 Drafted: 5, Matched: 5, Matchness: 0.70, Th_stop_draft: 0.33
-drafting phase..
-drafting phase..
-drafting phase..
-drafting phase..
-drafting phase..
-drafted:  5
------- sent for verification ------
 Drafted: 5, Matched: 5, Matchness: 0.75, Th_stop_draft: 0.33
-drafting phase..
-drafting phase..
-drafting phase..
-drafting phase..
-drafting phase..
-drafted:  5
------- sent for verification ------
 Drafted: 5, Matched: 5, Matchness: 0.77, Th_stop_draft: 0.33
 Prompt: class Car:
     def __init__(self, name):
@@ -1137,317 +216,45 @@ Prompt: class Car:
         return self.name <= other.name
 
     def __gt
-Time per token: 0.0600s
-called draft-verify
--------- first token run -----------------
-drafting phase..
-drafting phase..
-drafting phase..
-drafting phase..
-drafting phase..
-drafted:  5
------- sent for verification ------
+Time per token: 0.0599s
 Drafted: 5, Matched: 2, Matchness: 0.10, Th_stop_draft: 0.30
-drafting phase..
-drafting phase..
-drafting phase..
-drafting phase..
-drafting phase..
-drafted:  5
------- sent for verification ------
 Drafted: 5, Matched: 5, Matchness: 0.45, Th_stop_draft: 0.30
-drafting phase..
-drafting phase..
-drafting phase..
-drafting phase..
-drafting phase..
-drafted:  5
------- sent for verification ------
 Drafted: 5, Matched: 3, Matchness: 0.43, Th_stop_draft: 0.30
-drafting phase..
-drafting phase..
-drafting phase..
-drafting phase..
-drafting phase..
-drafted:  5
------- sent for verification ------
 Drafted: 5, Matched: 5, Matchness: 0.61, Th_stop_draft: 0.30
-drafting phase..
-drafting phase..
-drafting phase..
-drafting phase..
-drafting phase..
-drafted:  5
------- sent for verification ------
 Drafted: 5, Matched: 1, Matchness: 0.31, Th_stop_draft: 0.30
-drafting phase..
-drafting phase..
-drafting phase..
-drafting phase..
-drafting phase..
-drafted:  5
------- sent for verification ------
 Drafted: 5, Matched: 5, Matchness: 0.55, Th_stop_draft: 0.31
-drafting phase..
-drafting phase..
-drafting phase..
-drafting phase..
-drafting phase..
-drafted:  5
------- sent for verification ------
 Drafted: 5, Matched: 1, Matchness: 0.28, Th_stop_draft: 0.31
-drafting phase..
-drafting phase..
-drafting phase..
-drafting phase..
-drafting phase..
-drafted:  5
------- sent for verification ------
 Drafted: 5, Matched: 1, Matchness: 0.14, Th_stop_draft: 0.31
-drafting phase..
-drafting phase..
-drafting phase..
-drafting phase..
-drafting phase..
-drafted:  5
------- sent for verification ------
 Drafted: 5, Matched: 5, Matchness: 0.47, Th_stop_draft: 0.31
-drafting phase..
-drafting phase..
-drafting phase..
-drafting phase..
-drafting phase..
-drafted:  5
------- sent for verification ------
 Drafted: 5, Matched: 1, Matchness: 0.23, Th_stop_draft: 0.31
-drafting phase..
-drafting phase..
-drafting phase..
-drafting phase..
-drafting phase..
-drafted:  5
------- sent for verification ------
 Drafted: 5, Matched: 5, Matchness: 0.52, Th_stop_draft: 0.31
-drafting phase..
-drafting phase..
-drafting phase..
-drafting phase..
-drafting phase..
-drafted:  5
------- sent for verification ------
 Drafted: 5, Matched: 5, Matchness: 0.66, Th_stop_draft: 0.31
-drafting phase..
-drafting phase..
-drafting phase..
-drafting phase..
-drafting phase..
-drafted:  5
------- sent for verification ------
 Drafted: 5, Matched: 3, Matchness: 0.53, Th_stop_draft: 0.31
-drafting phase..
-drafting phase..
-drafting phase..
-drafting phase..
-drafting phase..
-drafted:  5
------- sent for verification ------
 Drafted: 5, Matched: 2, Matchness: 0.36, Th_stop_draft: 0.31
-drafting phase..
-drafting phase..
-drafting phase..
-drafting phase..
-drafting phase..
-drafted:  5
------- sent for verification ------
 Drafted: 5, Matched: 3, Matchness: 0.38, Th_stop_draft: 0.32
-drafting phase..
-drafting phase..
-drafting phase..
-drafting phase..
-drafting phase..
-drafted:  5
------- sent for verification ------
 Drafted: 5, Matched: 2, Matchness: 0.29, Th_stop_draft: 0.32
-drafting phase..
-drafting phase..
-drafting phase..
-drafting phase..
-drafting phase..
-drafted:  5
------- sent for verification ------
 Drafted: 5, Matched: 1, Matchness: 0.15, Th_stop_draft: 0.32
-drafting phase..
-drafting phase..
-drafting phase..
-drafting phase..
-drafting phase..
-drafted:  5
------- sent for verification ------
 Drafted: 5, Matched: 1, Matchness: 0.07, Th_stop_draft: 0.32
-drafting phase..
-drafting phase..
-drafting phase..
-drafting phase..
-drafting phase..
-drafted:  5
------- sent for verification ------
 Drafted: 5, Matched: 1, Matchness: 0.04, Th_stop_draft: 0.32
-drafting phase..
-drafting phase..
-drafting phase..
-drafting phase..
-drafting phase..
-drafted:  5
------- sent for verification ------
 Drafted: 5, Matched: 5, Matchness: 0.42, Th_stop_draft: 0.32
-drafting phase..
-drafting phase..
-drafting phase..
-drafting phase..
-drafting phase..
-drafted:  5
------- sent for verification ------
 Drafted: 5, Matched: 1, Matchness: 0.21, Th_stop_draft: 0.32
-drafting phase..
-drafting phase..
-drafting phase..
-drafting phase..
-drafting phase..
-drafted:  5
------- sent for verification ------
 Drafted: 5, Matched: 2, Matchness: 0.20, Th_stop_draft: 0.32
-drafting phase..
-drafting phase..
-drafting phase..
-drafting phase..
-drafting phase..
-drafted:  5
------- sent for verification ------
 Drafted: 5, Matched: 5, Matchness: 0.50, Th_stop_draft: 0.32
-drafting phase..
-drafting phase..
-drafting phase..
-drafting phase..
-drafting phase..
-drafted:  5
------- sent for verification ------
 Drafted: 5, Matched: 3, Matchness: 0.45, Th_stop_draft: 0.32
-drafting phase..
-drafting phase..
-drafting phase..
-drafting phase..
-drafting phase..
-drafted:  5
------- sent for verification ------
 Drafted: 5, Matched: 5, Matchness: 0.63, Th_stop_draft: 0.33
-drafting phase..
-drafting phase..
-drafting phase..
-drafting phase..
-drafting phase..
-drafted:  5
------- sent for verification ------
 Drafted: 5, Matched: 3, Matchness: 0.51, Th_stop_draft: 0.33
-drafting phase..
-drafting phase..
-drafting phase..
-drafting phase..
-drafting phase..
-drafted:  5
------- sent for verification ------
 Drafted: 5, Matched: 1, Matchness: 0.26, Th_stop_draft: 0.33
-drafting phase..
-drafting phase..
-drafting phase..
-drafting phase..
-drafting phase..
-drafted:  5
------- sent for verification ------
 Drafted: 5, Matched: 1, Matchness: 0.13, Th_stop_draft: 0.33
-drafting phase..
-drafting phase..
-drafting phase..
-drafting phase..
-drafting phase..
-drafted:  5
------- sent for verification ------
 Drafted: 5, Matched: 5, Matchness: 0.46, Th_stop_draft: 0.33
-drafting phase..
-drafting phase..
-drafting phase..
-drafting phase..
-drafting phase..
-drafted:  5
------- sent for verification ------
 Drafted: 5, Matched: 3, Matchness: 0.43, Th_stop_draft: 0.33
-drafting phase..
-drafting phase..
-drafting phase..
-drafting phase..
-drafting phase..
-drafted:  5
------- sent for verification ------
 Drafted: 5, Matched: 5, Matchness: 0.62, Th_stop_draft: 0.33
-drafting phase..
-drafting phase..
-drafting phase..
-drafting phase..
-drafting phase..
-drafted:  5
------- sent for verification ------
 Drafted: 5, Matched: 5, Matchness: 0.71, Th_stop_draft: 0.33
-drafting phase..
-drafting phase..
-drafting phase..
-drafting phase..
-drafting phase..
-drafted:  5
------- sent for verification ------
 Drafted: 5, Matched: 5, Matchness: 0.75, Th_stop_draft: 0.33
-drafting phase..
-drafting phase..
-drafting phase..
-drafting phase..
-drafting phase..
-drafted:  5
------- sent for verification ------
 Drafted: 5, Matched: 5, Matchness: 0.78, Th_stop_draft: 0.33
-drafting phase..
-drafting phase..
-drafting phase..
-drafting phase..
-drafting phase..
-drafted:  5
------- sent for verification ------
 Drafted: 5, Matched: 5, Matchness: 0.79, Th_stop_draft: 0.34
-drafting phase..
-drafting phase..
-drafting phase..
-drafting phase..
-drafting phase..
-drafted:  5
------- sent for verification ------
 Drafted: 5, Matched: 5, Matchness: 0.79, Th_stop_draft: 0.34
-drafting phase..
-drafting phase..
-drafting phase..
-drafting phase..
-drafting phase..
-drafted:  5
------- sent for verification ------
 Drafted: 5, Matched: 5, Matchness: 0.80, Th_stop_draft: 0.34
-drafting phase..
-drafting phase..
-drafting phase..
-drafting phase..
-drafting phase..
-drafted:  5
------- sent for verification ------
 Drafted: 5, Matched: 4, Matchness: 0.70, Th_stop_draft: 0.34
-drafting phase..
-drafting phase..
-drafted:  2
------- sent for verification ------
 Drafted: 2, Matched: 2, Matchness: 0.60, Th_stop_draft: 0.34
 Prompt: #include <stdio.h>
 int main() {
@@ -1479,5 +286,5 @@ int main() {
 
 // 编译
 //
-Time per token: 0.0721s
-Average time taken for self-speculative decoding: 0.0643s
+Time per token: 0.0720s
+Average time taken for self-speculative decoding: 0.0640s
